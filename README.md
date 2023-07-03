@@ -1,1 +1,1 @@
-# Arvind-Store-Ananlysis-Excel
+# Arvind-Store-Analysis-Excel
